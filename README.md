@@ -1,6 +1,9 @@
 from random import *
+
 passenger = 0
+
 cnt=0
+
 for passenger in range(1,51):
     time = randint(5,50)
     if 5 <= time <= 15:
