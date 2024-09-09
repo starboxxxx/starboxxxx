@@ -5,7 +5,8 @@
 <!--내용 부분-->
 <h3 align="center">📚 Tech Stacks </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=
+    Tistory&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <br>
   
