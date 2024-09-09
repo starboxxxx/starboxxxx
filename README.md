@@ -5,8 +5,7 @@
 <!--내용 부분-->
 <h3 align="center">📚 Tech Stacks </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=
-    Tistory&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <br>
   
@@ -36,11 +35,11 @@
 <div align="center">
   
   <a href="https://leegd120.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-#000000?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:leegd120@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/leegd120@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 <!--
