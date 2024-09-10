@@ -40,7 +40,7 @@
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
-<div align="left">
+<div align="center">
   
   <a href="https://leegd120.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
@@ -51,12 +51,12 @@
   </a>
 </div>
 
-<div align=right>
-	<br>
+<div align=left>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starboxxxx&layout=compact&theme=radical">
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=starboxxxx&show_icons=true&theme=radical">
   <br><br>
+</div>
 
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
