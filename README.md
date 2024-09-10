@@ -32,7 +32,7 @@
 
   <br>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
   
 </div>
