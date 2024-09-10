@@ -55,7 +55,6 @@
 <h3 align="center">😄 Stats 😄</h3>
 
 <div align=center>
-	<br>
 	
 <img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
 	
