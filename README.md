@@ -57,10 +57,6 @@
 <div align=center>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=starboxxxx&theme=radical">
-  <br>
-
-  <p>🏆 Baekjoon solved rank 🏆</p>
-	
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrbehd120)](https://solved.ac/dlrbehd120)
 </div>
 <!--
