@@ -40,7 +40,7 @@
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<div align="left">
   
   <a href="https://leegd120.tistory.com">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
@@ -51,7 +51,7 @@
   </a>
 </div>
 
-<div align=center>
+<div align=right>
 	<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starboxxxx&layout=compact&theme=radical">
   <br><br>
