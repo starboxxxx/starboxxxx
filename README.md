@@ -55,11 +55,15 @@
 <h3 align="center">😄 Stats 😄</h3>
 
 <div align=center>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=starboxxxx&theme=radical">
-  <br>
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrbehd120)](https://solved.ac/dlrbehd120)
-  
+	<br>
+	
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
+
+<br>
+<p>🏆 Baekjoon solved Rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrbehd120)](https://solved.ac/dlrbehd120/)
 </div>
 <!--
 **starboxxxx/starboxxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
