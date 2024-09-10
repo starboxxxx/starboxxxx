@@ -57,7 +57,6 @@
 <br><br>
 
 <h3 align="center">😄 Stats 😄</h3>
-<br>
 <div align=center>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrbehd120)](https://solved.ac/dlrbehd120/) 
