@@ -54,7 +54,7 @@
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-<br><br>
+<br>
 
 <h3 align="center">😄 Stats 😄</h3>
 <div align=center>
