@@ -57,11 +57,7 @@
 <div align=center>
 	<br>
 	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
-
-<br>
-<p>🏆 Baekjoon solved Rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrbehd120)](https://solved.ac/dlrbehd120/)
 </div>
