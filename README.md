@@ -52,12 +52,12 @@
 </div>
 <br><br>
 
-<h3 align="center">About Me...</h3>
+<h3 align="center">Stats</h3>
 
 <div align=center>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=starboxxxx&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starboxxxx&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starboxxxx&theme=radical">
   <br><br><br>
 
   <p>🏆 Baekjoon solved rank 🏆</p>
