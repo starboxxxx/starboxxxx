@@ -50,17 +50,17 @@
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+<br><br><br>
 
 <div align=center>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=starboxxxx&show_icons=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starboxxxx&layout=compact&theme=radical">
-  <br><br>
-</div>
+  <br><br><br>
 
-<p>🏆 Baekjoon solved rank 🏆</p>
+  <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrbehd120)](https://solved.ac/dlrbehd120)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrbehd120)](https://solved.ac/dlrbehd120)
 </div>
 <!--
 **starboxxxx/starboxxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
